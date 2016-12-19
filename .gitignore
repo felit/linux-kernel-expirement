@@ -1,0 +1,4 @@
+.idea
+*.symvers
+*.order
+cmake-build-debug
